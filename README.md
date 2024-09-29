@@ -15,4 +15,5 @@
 13. BeyondCompare 文件比较软件
 14. SpaceSniffer 空间占用查看软件
 15. windows update blocker 禁止windows更新
-16. dism
+16. dism++
+17. BeyondCompare 文件对比工具
